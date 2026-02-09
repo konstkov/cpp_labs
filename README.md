@@ -1,6 +1,6 @@
 # C++ Labs portfolio
 
-A collection of C++ labs demonstrating my learning of C++ language's modern features such as: STL containers, operator overloading, OOP concepts (encapsulation, inheritance, polymorphism) among others.
+A collection of C++ labs demonstrating my learning of modern C++ features, including STL containers and algorithms, operator overloadingand and object-oriented programming concepts such as encapsulation, inheritance, polymorphism).
 
 # Contents
 
@@ -14,8 +14,8 @@ A collection of C++ labs demonstrating my learning of C++ language's modern feat
 
 ## Highlights
 
-- Learned how to efficiently use STL containers and algorithms to write efficient, maintanable C++ code. 
+- Learned how to efficiently use STL containers and algorithms to write efficient, maintainable C++ code. 
 - Implemented operator overloading for custom classes.
-- Applied C++ modern memory management using smart pointers (shared_ptr, weak_ptr).
+- Applied C++ modern memory management using smart pointers (std::shared_ptr,std::weak_ptr).
 - Gained experience in developing for embedded systems (Raspberry Pi Pico) using object-oriented approach.
 - Designed software using encapsulation, inheritance and polymorphism. 
