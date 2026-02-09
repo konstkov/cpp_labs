@@ -1,6 +1,6 @@
 # C++ Labs portfolio
 
-A collection of C++ labs demonstrating my learning of modern C++ features, including STL containers and algorithms, operator overloading and and object-oriented programming concepts such as encapsulation, inheritance, polymorphism).
+A collection of C++ labs demonstrating my learning of modern C++ features, including STL containers and algorithms, operator overloading and and object-oriented programming concepts such as encapsulation, inheritance, polymorphism.
 
 # Contents
 
