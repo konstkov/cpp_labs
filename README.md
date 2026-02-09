@@ -14,8 +14,8 @@ A collection of C++ labs demonstrating my learning of C++ language's modern feat
 
 ## Highlights
 
--Learned how to efficiently use STL containers and corresponding member functions.
--Successfully implemented operator overloading.
--Explored C++ modern features such as smart pointers (<shared_ptr, <weak_ptr>)
--Gained experience in developing for embedded systems (Raspberry Pi Pico) using object-oriented approach.
--Applied object-oriented design principles: encapsulation, inheritance and polymorphism 
+- [Learned how to efficiently use STL containers and corresponding member functions.]
+- [Successfully implemented operator overloading.]
+- [Explored C++ modern features such as smart pointers (<shared_ptr, <weak_ptr>)]
+- [Gained experience in developing for embedded systems (Raspberry Pi Pico) using object-oriented approach.]
+- [Applied object-oriented design principles: encapsulation, inheritance and polymorphism.] 
