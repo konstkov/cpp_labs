@@ -19,4 +19,5 @@ A collection of C++ labs demonstrating my learning of modern C++ features, inclu
 - Implemented operator overloading for custom classes.
 - Applied C++ modern memory management using smart pointers (std::shared_ptr,std::weak_ptr).
 - Gained experience in developing for embedded systems (Raspberry Pi Pico) using object-oriented approach.
-- Designed software using encapsulation, inheritance and polymorphism. 
+- Designed software using encapsulation, inheritance and polymorphism.
+- Implemented a subscription mechanism to notify multiple objects using the Observer pattern.  
