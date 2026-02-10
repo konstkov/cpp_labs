@@ -11,6 +11,7 @@ A collection of C++ labs demonstrating my learning of modern C++ features, inclu
 - [Lab 5: Pi-Pico Project](lab5-pi-pico)
 - [Lab 6: Inheritance](lab6-inheritance)
 - [Lab 7: Abstract Class](lab7-abstract-class)
+- [Lab 8: Observer Pattern](lab8-observer-pattern)
 
 ## Highlights
 
